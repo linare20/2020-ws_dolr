@@ -1,14 +1,20 @@
-# Hallo Welt 
-
-Mein Professor ist der Beste.
+# Ambidextrous Organisation             
+by Nadja Gottschalk and Lina Renner 
 
 ---
 
-## Weitere Gedanken 
+## Agenda 
 
-Ich hab keinen Geistesblitz.
+1. Innovation 
+2. The concept of an ambidextrous organisation 
+3. The importance of ambidexterity 
+4. Influence on managers 
+5. Example 
+6. Critics 
+7. Discussion 
 
-![](I1.jpg)
+---
 
+### Innovation 
 
-
+disruptive 

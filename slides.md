@@ -24,8 +24,8 @@ Ambidexterity = being as skilled with the left hand as with the right hand
 
 #### Ambidexterity in a business: 
 
-- manager deals with the growth of the business 
-- nowadays there are also new and disruptive innovations that have to be explored and managed 
+- Manager deals with the growth of the business 
+- Nowadays there are also new and disruptive innovations that have to be explored and managed 
 
 The challenge is to manage both efficiently to be successful! 
  
@@ -43,9 +43,9 @@ The challenge is to manage both efficiently to be successful!
 
 ##### An Ambidextrous Organisation:
 
-- distinct units that have their own culture and structure 
-- these units can be one or several innovation teams in a larger company but aim to support unique activities 
-- ambidextrous business models are used to drive innovation while keeping existing units 
+- Distinct units that have their own culture and structure 
+- These units can be one or several innovation teams in a larger company but aim to support unique activities 
+- Ambidextrous business models are used to drive innovation while keeping existing units 
 
 ---
 
@@ -71,16 +71,16 @@ Exploitation vs Exploration
 Contextual Ambidexterity (part1): 
 - Individuals make choices between either the exploitation-oriented or the exploration-oriented activities in their daily work
 - Being flexible is necessary: 
-  - to allow employees to use their own judgment 
-  - they can divide their time between their adaptation-oriented and alignment-oriented activities 
+  - To allow employees to use their own judgment 
+  - They can divide their time between their adaptation-oriented and alignment-oriented activities 
 
 ---
 
 Contextual Ambidexterity (part2): 
 
 - Simultaneous pursuing of explorative and explorable measures within a single business unit 
-  - built on processes that encourage individuals to divide their time between activities 
-  - they provide value to current customers and seek opportunities and respond to continuous change 
+  - Built on processes that encourage individuals to divide their time between activities 
+  - They provide value to current customers and seek opportunities and respond to continuous change 
 
 ---
 
@@ -92,7 +92,7 @@ Structural Ambidexterity:
   
 - Creation of separate organizations or structures for different types of activities
 → Organizations that are either solely aligned or solely adaptive
-- firm separates the explorative from the exploitative unit, each with different management, processes, structures, and cultures, but are well integrated under a senior management team 
+- Firm separates the explorative from the exploitative unit, each with different management, processes, structures, and cultures, but are well integrated under a senior management team 
   
 ---
 
@@ -137,16 +137,16 @@ Importance of Ambidexterity
 - Competitive landscape requires to cut costs and push efficiency 
 - The environment is changing faster than ever before which requires innovative ideas 
 
-Research: ambidexterity leads to higher performance 
+Research: Ambidexterity leads to higher performance 
 
 ---
 
 Critics 
 
-- lack of description of how managers can overcome the challenge of managing both 
-- original: it is about developing the necessary capabilities to compete in new markets and cope with technologies (ambidexterity as a capability)
-- nowadays: company should be able to manage both, innovation and efficiency 
-- reality: organisations face diverse competitive markets & they vary in the required rates of exploration and exploitation 
+- Lack of description of how managers can overcome the challenge of managing both 
+- Original: it is about developing the necessary capabilities to compete in new markets and cope with technologies (ambidexterity as a capability)
+- Nowadays: company should be able to manage both, innovation and efficiency 
+- Reality: organisations face diverse competitive markets & they vary in the required rates of exploration and exploitation 
 
 ---
 

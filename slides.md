@@ -98,6 +98,7 @@ Structural Ambidexterity:
 
 Examples of ambidextrous organisations:
 
+Go to www.menti.com and use the code: 70 20 64 
 ![](qrcode.png)
 
 ----

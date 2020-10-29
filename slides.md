@@ -84,6 +84,10 @@ Contextual Ambidexterity (part2):
 
 ---
 
+![](2forms.png)
+
+---
+
 Structural Ambidexterity:
   
 - Creation of separate organizations or structures for different types of activities

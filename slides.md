@@ -145,8 +145,6 @@ Research: Ambidexterity leads to higher performance
 Critics 
 
 - Lack of description of how managers can overcome the challenge of managing both 
-- Original: it is about developing the necessary capabilities to compete in new markets and cope with technologies (ambidexterity as a capability)
-- Nowadays: company should be able to manage both, innovation and efficiency 
 - Reality: organisations face diverse competitive markets & they vary in the required rates of exploration and exploitation 
 
 ---

@@ -79,7 +79,7 @@ Contextual Ambidexterity (part1):
 Contextual Ambidexterity (part2): 
 
 - Simultaneous pursuing of explorative and explorable measures within a single business unit 
-  - uilt on processes that encourage individuals to divide their time between activities 
+  - built on processes that encourage individuals to divide their time between activities 
   - they provide value to current customers and seek opportunities and respond to continuous change 
 
 ---
@@ -100,7 +100,7 @@ Examples of ambidextrous organisations:
 
 Results: 
 
-https://www.mentimeter.com/s/6d3573f73a5bead833301834146ddc00/6e657c65e28c
+https://www.mentimeter.com/s/3a4edba44f64d1cb8771d52509e66451
 
 
 

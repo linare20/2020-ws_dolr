@@ -68,6 +68,10 @@ Exploitation vs Exploration
 
 ---
 
+![](2forms.png)
+
+---
+
 Contextual Ambidexterity (part1): 
 - Individuals make choices between either the exploitation-oriented or the exploration-oriented activities in their daily work
 - Being flexible is necessary: 
@@ -81,10 +85,6 @@ Contextual Ambidexterity (part2):
 - Simultaneous pursuing of explorative and explorable measures within a single business unit 
   - Built on processes that encourage individuals to divide their time between activities 
   - They provide value to current customers and seek opportunities and respond to continuous change 
-
----
-
-![](2forms.png)
 
 ---
 
